@@ -1,3 +1,3 @@
-const message: string = "Hello, world!"
-
-console.log(message)
+let greeting: string, target: string
+greeting = "Hello, "
+console.log(greeting + target)
